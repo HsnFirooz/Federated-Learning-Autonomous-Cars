@@ -1,0 +1,9 @@
+flwr
+torch torchvision
+jupyterlab
+notebook
+pandas
+tensorflow
+sklearn
+opencv-python
+imgaug

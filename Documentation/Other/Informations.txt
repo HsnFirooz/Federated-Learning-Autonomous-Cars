@@ -1,0 +1,14 @@
+PC Portable DELL :
+L : user
+P : user@cpu
+
+ipscan --> Chercher "raspberry" pour trouver l'@ip de la voiture (l'ip est dynamique, on pourrait la rendre statique pour savoir quelle @ip correspond à quelle voiture)
+
+ssh sur l'ip de la voiture : ssh pi@192.168.12......
+
+Voiture ancienne : password = raspberry
+
+cd picar-x/examples/LaneFollowing
+sudo python3 prediction.py
+
+Wifi MIA : MaisonIA06!2020

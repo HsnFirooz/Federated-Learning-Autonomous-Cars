@@ -1,5 +1,3 @@
-![GitHub Logo](https://github.com/erdaltoprak/TER2021-074/blob/main/Documentation/Other/uca-logo-large.png)
-
 # TER2021-074 - Deep Learning for Autonomous Cars / Federated learning, communication inter-objets
 
 ## 🏫 Our group
@@ -27,7 +25,11 @@ Objectives:
 
 All this will be tested at the Maison de l'Intelligence Artificielle, on a real track with real mini-cars.
 
+## Libraries used
+Flower
+PyTorch
+OpenCV
 
 ## [🗂 Documentation](https://github.com/erdaltoprak/TER2021-074/tree/master/Documentation)
+Find task implementations in the Code folder, task descriptions in Documentation folder and the final report in Documantations/final_report.pdf
 
-## [🚀 Releases](https://github.com/erdaltoprak/TER2021-074/releases)
